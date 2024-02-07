@@ -1,0 +1,4 @@
+Why are you interested in taking CMSC320?
+I want to learn the basics of machine learning, data science,
+and data mining. I also want to get familiar with using pandas,
+Jupyter notebook, and Python.
